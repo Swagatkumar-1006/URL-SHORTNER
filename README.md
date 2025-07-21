@@ -29,6 +29,7 @@ URL-SHORTENER/
 │   ├── server.js
 │   ├── .env
 │   └── ...
+````
 ⚙️ Tech Stack
 Frontend: React.js, Tailwind CSS
 
@@ -74,7 +75,7 @@ npm install
 npm start
 Visit the frontend at: http://localhost:3000
 
-##  🧠 How It Works
+🧠 How It Works
 Enter a long URL in the input field.
 
 Click on "Shorten it!" to generate a short version.
