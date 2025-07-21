@@ -74,7 +74,7 @@ npm install
 npm start
 Visit the frontend at: http://localhost:3000
 
-🧠 How It Works
+##  🧠 How It Works
 Enter a long URL in the input field.
 
 Click on "Shorten it!" to generate a short version.
@@ -116,7 +116,3 @@ Edit
 
 ---
 
-Let me know if you'd like to:
-- Add live deployment links (e.g., Vercel/Render)
-- Include instructions for Docker
-- Write a shorter version for a portfolio or Devpost
