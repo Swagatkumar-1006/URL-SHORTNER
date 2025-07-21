@@ -107,13 +107,3 @@ Commit your changes: git commit -m 'Add some feature'
 Push to the branch: git push origin feature/your-feature
 
 Open a pull request
-
-📄 License
-This project is open source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
